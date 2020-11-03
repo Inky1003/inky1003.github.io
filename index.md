@@ -16,11 +16,11 @@
             <span aria-hidden="true">&times;</span>
           </button>
       </div>
-
-    <h1> Greetings! </h1>
+    <div class="container">
+        <h1> Greetings! </h1>
     
-    <img class="align-center" src="hoy.png" width="250px" height="250px">
-    <h3> I'm Inky, a Furry Wolf. </h3>
+        <img class="align-center" src="hoy.png" width="250px" height="250px">
+        <h3> I'm Inky, a Furry Wolf. </h3>
     <p>Currently I code in PHP, HTML, Python, some Javascript and a little bit of C++</p>
     <br><br>
     <h1> My OpenSource Projects: </h1>
@@ -30,6 +30,7 @@
         <li><a href="https://github.com/Inky1003/rofid"> Rofid,</a> a bcc.org.br video downloader</li>
     </ul>
 <h4>This website is under construction and can be unmantained at any moment.</h4>
+</div>
 </body>
 
 
