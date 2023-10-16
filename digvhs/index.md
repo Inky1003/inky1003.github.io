@@ -6,6 +6,8 @@ Rhowsl is [@rhowsl](https://github.com/rhowsl)
 
 I am [@Inky1003](https://github.com/Inky1003)
 
+if you'd like to help, [read the FAQ](#faq) then [you can send me an email](mailto:mail@inky1003.dev.br)
+
 [and the FAQ is here, at the bottom of this page.](#faq) Make sure you read It before you contact us about something already replied there.
 
 ---
