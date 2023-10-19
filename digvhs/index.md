@@ -48,9 +48,9 @@ We can do If It's useful and not impossible to make. But don't keep asking for f
 
 **Will you also port ld-decode?** 📀
 
-❌ 
+🤷 
 
-No. I'm sorry, but neither of us has LaserDiscs on our homes. I'd really like If in our country LaserDiscs were common, but they're rare, even too expensive and unusual in the 80's. Also, our focus is in VHS, and as I write, only I (Inky) has a RF capture device currently.
+Not really ld-decode, but a bit of It. vhs-decode requires some functions from ld-decode, so... We at any moment will port a bit of It, even though we won't port every ld-decode functionality.
 
 **Will It be compatible with vhs-decode formats (Like JSON/TBC)?** 📼
 
