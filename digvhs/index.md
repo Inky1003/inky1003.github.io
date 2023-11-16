@@ -6,13 +6,23 @@ Rhowsl is [@rhowsl](https://github.com/rhowsl)
 
 I am [@Inky1003](https://github.com/Inky1003)
 
-if you'd like to help, [read the FAQ](#faq) then [you can send me an email](mailto:mail@inky1003.dev.br)
+if you'd like to help, [read the FAQ](#faq) then call me at my Discord @inky1003
 
 [and the FAQ is here, at the bottom of this page.](#faq) Make sure you read It before you contact us about something already replied there.
 
 ---
 
 # Updates
+
+## 16/11/2023 - Small steps xd
+
+To celebrate a month of development, I'd like to thank Rhowsl for the hard work on DIGVHS. He ported most of the functions, as his knowledge in modern C++ is greater than mine, and his enthusiasm is big enough to make everything, even after a tiring work day at his job. Thanks Rhowsl!
+
+Now the update: we got some filters to work, also needed to change some things about ld-decode. We definitely need to port lddecode, as many functions were got from It.
+
+Also, something that got us were the Linear Algebra and Signal Processing functions, which we need to learn deeper about them.
+
+So... that's It! I'll keep you informed when we get any better.
 
 ## 15/10/2023 - A wild new decoding project appears by abiogenesis
 
@@ -50,7 +60,7 @@ We can do If It's useful and not impossible to make. But don't keep asking for f
 
 🤷 
 
-Not really ld-decode, but a bit of It. vhs-decode requires some functions from ld-decode, so... We at any moment will port a bit of It, even though we won't port every ld-decode functionality.
+Not really ld-decode, but a bit of It. vhs-decode requires some functions from ld-decode, so... We at any moment will port a bit of It, maybe not everything.
 
 **Will It be compatible with vhs-decode formats (Like JSON/TBC)?** 📼
 
