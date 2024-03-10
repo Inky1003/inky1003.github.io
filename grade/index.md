@@ -2,7 +2,7 @@
 
 ## Grade horária vigente
 
-A grade vigente atualmente está datada de __05/03/2024 15:00__.
+A grade vigente atualmente está datada de __10/03/2024 15:00__.
 
 Todas as grades anteriores estão desatualizadas e devem ser desconsideradas.
 
